@@ -1,6 +1,6 @@
 export GITACCOUNT=allen@intewolf.com
 
-export MYCLUSTER=
+export MYCLUSTER=bnkk5cdt0nb07f25vcug
 export KUBECONFIG=
 
 export NAMESPACE=allenlxy
